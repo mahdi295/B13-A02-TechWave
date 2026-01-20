@@ -377,4 +377,30 @@ header{
     .choose-p{
         font-size: 2rem;
     }
+    .feature-host{
+        padding: 40px 20px;
+    }
+    .video-container{
+        flex-direction: column;
+        align-items: center;
+    }
+    .video-card{
+        width: 100%;
+        max-width: 400px;
+    }
+    .video-card h3{
+        font-size: 20px;
+    }
+    .host-card{
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .host-card ul{
+        justify-content: center;
+    }
+    .host-card h4{
+        font-size: 24px;
+    }
 }
